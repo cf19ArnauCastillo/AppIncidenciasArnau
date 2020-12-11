@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Incidencias</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="anadir_incidencia">Añadir Incidencia</string>
+    <string name="listar_incidencia">Listar Incidencia</string>
+    <string name="eliminar_incidencia">Eliminar Incidencia</string>
+    <string name="contenido_incidencia">ingresa la incidencia</string>
+    <string name="guardar">Guardar</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="vacio">Registro eliminado</string>
+    <string name="nuevo_dioma">Cambiar language</string>
+    <string name="Ingles">Inglés</string>
+    <string name="Cat">Catalán</string>
+    <string name="Descripcion">Descripción</string>
+
+    <string name="ingles">Inglés</string>
+    <string name="espanol">Español</string>
+    <string name="altas">Altas</string>
+    <string name="medias">Medias</string>
+    <string name="bajas">Bajas</string>
+
+    <string name="buscar">Buscar</string>
+    <string name="eli_especifica">Eliminar</string>
+</resources>

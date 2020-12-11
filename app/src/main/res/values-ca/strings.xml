@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Incidencias</string>
+    <string name="usuario">nom usuari</string>
+    <string name="contraseña">Contrasenya</string>
+    <string name="registrar">Registrar</string>
+    <string name="anadir_incidencia">afegir esdeveniment</string>
+    <string name="listar_incidencia">llistar esdeveniments</string>
+    <string name="eliminar_incidencia">suprimir esdeveniments</string>
+    <string name="contenido_incidencia">contingut esdeveniments</string>
+    <string name="guardar">Guardar</string>
+    <string name="ayuda">Ajuda</string>
+    <string name="vacio">esdeveniment eliminat</string>
+    <string name="nuevo_dioma">canviar llenguatge</string>
+    <string name="Ingles">Anglès</string>
+    <string name="Cat">Catalàn</string>
+    <string name="Descripcion">Descripció</string>
+
+    <string name="ingles">Àngles</string>
+    <string name="espanol">Espanyol</string>
+    <string name="altas">Altes</string>
+    <string name="medias">Mitjanas</string>
+    <string name="bajas">Baixas</string>
+
+    <string name="buscar">Cerca</string>
+    <string name="eli_especifica">Esborrar</string>
+</resources>
